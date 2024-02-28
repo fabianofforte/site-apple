@@ -2,7 +2,7 @@
 
 1 - Landing Page do Site da Apple feito em estudo no video do Canal Fernanda Kipper! :)
 
-2- [Coloque aqui o link do projeto em produção](http://apple-websiteclone.s3-website.us-east-2.amazonaws.com/)!
+2- http://apple-websiteclone.s3-website.us-east-2.amazonaws.com/
 
 
 
